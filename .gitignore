@@ -11,5 +11,7 @@
 *.iws
 *.iml
 *.ipr
-**/target
 **/.idea
+
+**/target
+**/node_modules
